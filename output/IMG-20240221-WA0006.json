@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "e0019b68-2ba5-4f65-b568-52bf9b9cb608",
+  "content-length": "153",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a dog sitting on a couch",
+    "confidence": 0.9353542923927307
+  },
+  "metadata": {
+    "width": 2160,
+    "height": 3840
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "e48a3955-080f-4892-b36a-5d761acafeb1",
+  "content-length": "155",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a bee on a lavender flower",
+    "confidence": 0.7189890146255493
+  },
+  "metadata": {
+    "width": 4608,
+    "height": 3072
+  }
+}
